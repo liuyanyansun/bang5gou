@@ -170,33 +170,33 @@ var third = document.getElementById('third');
 var fourth = document.getElementById('fourth');
 first.onmouseover = function(){
 	first.style.position="fixed";
-	first.setAttribute("style","left:1240px");
+	first.setAttribute("style","right:-10px");
 }
 first.onmouseout = function(){
 	first.style.position="fixed";
-	first.setAttribute("style","left:1310px"); 
+	first.setAttribute("style","lright:-91px"); 
 }
 second.onmouseover = function(){
 	second.style.position="fixed";
-	second.setAttribute("style","left:1240px");
+	second.setAttribute("style","right:-10px");
 }
 second.onmouseout = function(){
 	second.style.position="fixed";
-	second.setAttribute("style","left:1310px"); 
+	second.setAttribute("style","right:-87px"); 
 }
 third.onmouseover = function(){
 	third.style.position="fixed";
-	third.setAttribute("style","left:1240px");
+	third.setAttribute("style","right:-10px");
 }
 third.onmouseout = function(){
 	third.style.position="fixed";
-	third.setAttribute("style","left:1310px"); 
+	third.setAttribute("style","right:-86px"); 
 }
 fourth.onmouseover = function(){
 	fourth.style.position="fixed";
-	fourth.setAttribute("style","left:1240px");
+	fourth.setAttribute("style","right:-10px");
 }
 fourth.onmouseout = function(){
 	fourth.style.position="fixed";
-	fourth.setAttribute("style","left:1310px"); 
+	fourth.setAttribute("style","right:-10px"); 
 }
