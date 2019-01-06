@@ -954,7 +954,7 @@ ul,li{
 }
 #gouwuche{
 	display: none;
-	position: absolute;
+	position: fixed;
 	top: 35%;
 	left: 40%;
 	width: 400px;
